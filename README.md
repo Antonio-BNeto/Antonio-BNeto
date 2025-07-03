@@ -8,15 +8,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-BNeto&show_icons=true&theme=github_dark&hide_border=true) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-BNeto&layout=compact&langs_count=5&theme=github_dark&hide_border=true&exclude_repo=Data-Structures-and-Algorithms,Jornada-Full-Stack)](https://github.com/Antonio-BNeto/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="neto-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="neto-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="neto-JAVASCRIPT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="neto-REACT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="neto-JAVA" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="neto-PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="neto-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="neto-CLOJURE" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
-  <img align="center" alt="neto-POSTGRESQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JAVASCRIPT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="REACT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JAVA" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="PYTHON" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="CLOJURE" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
+  <img align="center" alt="POSTGRESQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="neto-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
