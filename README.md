@@ -5,7 +5,7 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-BNeto&show_icons=true&theme=github_dark&hide_border=true) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-BNeto&layout=compact&langs_count=7&theme=github_dark&hide_border=true&exclude_repo=Data-Structures-and-Algorithms,Jornada-Full-Stack&hide=hack)](https://github.com/Antonio-BNeto/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio-BNeto&show_icons=true&theme=github_dark&hide_border=true) &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-BNeto&layout=compact&langs_count=7&theme=github_dark&hide_border=true&exclude_repo=Data-Structures-and-Algorithms&hide=hack)](https://github.com/Antonio-BNeto/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
