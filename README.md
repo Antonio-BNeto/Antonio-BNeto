@@ -1,7 +1,7 @@
 ### Hi there, I'm Antonio Barros!
 
 - 📚 I'm studying programming for web development.
-- 📱 I'm currently studying mobile development with Flutter.
+- 📱 I'm currently studying mobile development.
 - 🎓 I'm currently studying Computer Science at UFCG.
 
 ##
